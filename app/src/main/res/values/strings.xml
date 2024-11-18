@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">画面部品サンプル</string>
     <string name="tv_msg">お名前を入力してください。</string>
+    <string name="input_text">入力してください</string>
+    <string name="bt_save">保存</string>
+    <string name="cd_drink">ドリンク</string>
+    <string name="cd_food">フード</string>
+    <string name="rd_male">男</string>
+    <string name="rd_famale">女</string>
 </resources>
